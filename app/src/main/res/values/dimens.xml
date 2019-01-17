@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textMedium" >20sp</dimen>
+    <dimen name="textLarge" >40sp</dimen>
+    <dimen name="textHuge" >80sp</dimen>
+    <dimen name="textExtraHuge" >120sp</dimen>
+    <dimen name="text_small">15sp</dimen>
+    <dimen name="text_tiny">12sp</dimen>
+    <dimen name="text_xtiny">9sp</dimen>
+    <dimen name="text_medium">20sp</dimen>
+    <dimen name="text_big">25sp</dimen>
+    <dimen name="text_huge">35sp</dimen>
+    <dimen name="text_extra_huge">45sp</dimen>
+
+
+    <dimen name="progress_min_size">100dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="progress_indeterminate_inner_radius">92dp</dimen>
+    <dimen name="progress_thickness">8dp</dimen>
+    <dimen name="margin_book_item_text">10dp</dimen>
+    <dimen name="book_item_padding">10dp</dimen>
+    <dimen name="progress_small_min_size">50dp</dimen>
+    <dimen name="bottom_nav_item_padding">10dp</dimen>
+    <dimen name="book_details_action_bar_padding">10dp</dimen>
+    <dimen name="icon_padding">10dp</dimen>
+    <dimen name="progress_thickness_thin">1dp</dimen>
+    <dimen name="chapter_item_padding">5dp</dimen>
+    <dimen name="chapter_item_offset">5dp</dimen>
+    <dimen name="verse_item_padding">5dp</dimen>
+    <dimen name="search_filter_margin">5dp</dimen>
+    <dimen name="bookmark_color_item_size">48dp</dimen>
+    <dimen name="bookmark_item_padding">5dp</dimen>
+    <dimen name="padding_5dp">2dp</dimen>
+    <dimen name="empty_icon_size">72dp</dimen>
+    <dimen name="chart_padding">100dp</dimen>
+    <dimen name="home_tv_padding">10dp</dimen>
+    <dimen name="home_icon_padding">10dp</dimen>
+    <dimen name="dv_topics_item_padding">5dp</dimen>
+</resources>

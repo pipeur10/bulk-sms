@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bulk Sms</string>
+
+
+    <string name="channel_name">Bulk Sms</string>
+    <string name="channel_description">Bulk Sms notification</string>
+    <string name="send">Send</string>
+    <string name="how_many_sms">How many sms?</string>
+    <string name="to">To</string>
+
+    <string-array name="sms_job_tabs">
+        <item>Sms Jobs</item>
+        <item>New Job</item>
+    </string-array>
+</resources>

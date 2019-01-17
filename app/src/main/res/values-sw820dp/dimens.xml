@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textMedium" >35sp</dimen>
+    <dimen name="textLarge" >45sp</dimen>
+    <dimen name="textHuge" >110sp</dimen>
+    <dimen name="textExtraHuge" >165sp</dimen>
+    <dimen name="text_small">28sp</dimen>
+    <dimen name="text_tiny">22sp</dimen>
+    <dimen name="text_medium">37sp</dimen>
+    <dimen name="text_big">48sp</dimen>
+    <dimen name="text_huge">58sp</dimen>
+    <dimen name="text_extra_huge">70sp</dimen>
+    <dimen name="verse_item_padding">10dp</dimen>
+    <dimen name="search_filter_margin">5dp</dimen>
+    <dimen name="bookmark_color_item_size">96dp</dimen>
+    <dimen name="bookmark_item_padding">5dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="empty_icon_size">192dp</dimen>
+    <dimen name="chart_padding">300dp</dimen>
+    <dimen name="home_tv_padding">10dp</dimen>
+    <dimen name="home_icon_padding">10dp</dimen>
+    <dimen name="dv_topics_item_padding">5dp</dimen>
+
+</resources>
